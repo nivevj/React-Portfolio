@@ -5,10 +5,10 @@ import {
     css,
     reactjs,
     tailwind,
-    nodejs,
     mongodb,
     git,
-    threejs,
+    springboot,
+    kafka,
   } from "../assets";
 
   import {
@@ -101,16 +101,16 @@ import {
       icon: tailwind,
     },
     {
-      name: "Node JS",
-      icon: nodejs,
+      name: "SpringBoot",
+      icon: springboot,
+    },
+    {
+      name: "Apache Kafka",
+      icon: kafka,
     },
     {
       name: "MongoDB",
       icon: mongodb,
-    },
-    {
-      name: "Three JS",
-      icon: threejs,
     },
     {
       name: "git",
