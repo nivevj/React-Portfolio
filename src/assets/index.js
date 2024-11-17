@@ -9,10 +9,8 @@ import git from "./tech/git.png";
 import html from "./tech/html.png";
 import javascript from "./tech/javascript.png";
 import mongodb from "./tech/mongodb.png";
-import nodejs from "./tech/nodejs.png";
 import reactjs from "./tech/reactjs.png";
 import tailwind from "./tech/tailwind.png";
-import threejs from "./tech/threejs.svg";
 
 import cvrde from "./company/cvrde.png";
 import sparks from "./company/sparks.png";
@@ -27,6 +25,9 @@ import art from "./art.png";
 import django from "./tech/django.png";
 import flask from "./tech/flask.png";
 import sqlite from "./tech/sqlite.png";
+
+import springboot from "./tech/springboot.png";
+import kafka from "./tech/kafka.png";
 
 import inventory from "./inventory.png"
 import llama2 from "./llama2.png"
@@ -43,10 +44,10 @@ export {
   html,
   javascript,
   mongodb,
-  nodejs,
   reactjs,
   tailwind,
-  threejs,
+  springboot,
+  kafka,
   cvrde,
   cpt,
   mcw,
