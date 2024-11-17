@@ -149,7 +149,7 @@ import {
       iconBg: "#E6DEDD",
       date: "Jul 2022 - Aug 2022",
       points: [
-        "Explore different AI tools and ML algorithms.",
+        "Explored different AI tools and ML algorithms.",
         "Documented various ML algorithms being used in different test cases and created a simple ML model.",
       ],
     },
