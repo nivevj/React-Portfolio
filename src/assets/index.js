@@ -18,6 +18,7 @@ import cvrde from "./company/cvrde.png";
 import sparks from "./company/sparks.png";
 import cpt from "./company/cpt.png";
 import mcw from "./company/mcw.png";
+import steria from "./company/steria.png";
 
 import code from "./code.png";
 import content from "./content.png";
@@ -49,6 +50,7 @@ export {
   cvrde,
   cpt,
   mcw,
+  steria,
   sparks,
   code,
   content,
