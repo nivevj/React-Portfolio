@@ -16,6 +16,7 @@ import {
     sparks,
     cpt,
     mcw,
+    steria,
     code,
     content,
     art,
@@ -119,7 +120,17 @@ import {
   
   const experiences = [
     {
-      title: "Junior Video Codec Engineer",
+      title: "Graduate Engineer Trainee",
+      company_name: "Sopra Steria",
+      icon: steria,
+      iconBg: "#E6DEDD",
+      date: "Nov 2024 - Present",
+      points: [
+        "Currently working as Graduate Engineer Trainee exploring different tech domains.",
+      ],
+    },
+    {
+      title: "Junior Engineer",
       company_name: "MulticoreWare",
       icon: mcw,
       iconBg: "#E6DEDD",
@@ -151,17 +162,6 @@ import {
       points: [
         "Explored the different computer networking architecture and protocols being used.",
         "Learnt about the network infrastructre and how communication is being carried out between client and server.",
-      ],
-    },
-    {
-      title: "Web Development Intern",
-      company_name: "The Sparks Foundation",
-      icon: sparks,
-      iconBg: "#E6DEDD",
-      date: "Nov 2021 - Dec 2021",
-      points: [
-        "Created a web application for fundraising using the front-end web development stack.",
-        "Payment gateway integration is achieved with the application for fund collection using RazorPay.",
       ],
     },
   ];
