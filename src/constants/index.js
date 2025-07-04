@@ -124,7 +124,7 @@ import {
       company_name: "Sopra Steria",
       icon: steria,
       iconBg: "#E6DEDD",
-      date: "Nov 2024 - Present",
+      date: "Nov 2024 - May 2025",
       points: [
         "Worked on Salesforce Platform and it's AI Agent Agentforce.",
         "Created flows with Salesforce Platform addressing several use cases and integrated the flows with the Agentforce to create functional AI bot.",
