@@ -126,7 +126,12 @@ import {
       iconBg: "#E6DEDD",
       date: "Nov 2024 - Present",
       points: [
-        "Currently working as Graduate Engineer Trainee exploring different tech domains.",
+        "Worked on Salesforce Platform and it's AI Agent Agentforce.",
+        "Created flows with Salesforce Platform addressing several use cases and integrated the flows with the Agentforce to create functional AI bot.",
+        "Explored Trailhead Platform and became Double Star Ranger earning 200+ badges and 4 super badges.",
+        "Became Agentblazer Innovator and Salesforce certified AI Associate.",
+        "Developed applications with JS and Apex in VS Code, deploying them to Salesforce platform using SDCLI.",
+        "Had exposure of .Net frameworks and C# and worked on few hands on applications with it.",
       ],
     },
     {
